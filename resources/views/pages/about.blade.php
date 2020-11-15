@@ -11,9 +11,9 @@
 
     <p> By With &hearts; TEACHERS DU NET</p>
 
-    <p><a href="/home">Revenir à la page d'acceuil</a></p>
+    <p><a href="/">Revenir à la page d'acceuil</a></p>
         <footer>
-        <p>&copy; Copyright {{ date('Y')}} &middot;<a href="/about-us">about Us</a></p>
+        <p>&copy; Copyright {{ date('Y')}} </p>
         </footer>
     </body>
 </html>
