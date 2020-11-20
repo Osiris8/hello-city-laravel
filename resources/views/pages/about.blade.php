@@ -4,7 +4,7 @@
 
 @section('content')
 
-<img src="/images/papillon11.jpg" alt="">
+<img src="{{ asset('/images/papillon11.jpg') }}" alt="">
 
     <p> By With &hearts; TEACHERS DU NET</p>
 

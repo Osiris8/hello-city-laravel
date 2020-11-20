@@ -3,7 +3,7 @@
 @section('title', 'Hello City')
 
 @section('content')
-<img src="/images/papillon11.jpg" alt="">
+<img src="{{ asset('/images/papillon11.jpg') }}" alt="">
 
         <h1>Hello from Quebec!</h1>
 
