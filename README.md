@@ -1,3 +1,3 @@
 # Hello City
 
-This is Laravel application that display the current time in your city
+This application uses Laravel and Tailwind CSS that display the current time in your city.
